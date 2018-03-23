@@ -6,7 +6,6 @@
 .. link:
 .. description: Ubuntu MATE 16.04 for the Raspberry Pi 2 and Raspbery Pi 3
 .. type: text
-.. author: Martin Wimpress
 -->
 
 Martin Wimpress and Rohith Madhavan have made an Ubuntu MATE image for the 
@@ -100,7 +99,7 @@ also be enabled.
 
 ## Enable and Disable X11
 
-Since Ubuntu MATE 16.04.2 your can disbale/enable the desktop
+Since Ubuntu MATE 16.04.2 your can disable/enable the desktop
 environment using `raspi-config`.
 
 ## Redirecting audio output
